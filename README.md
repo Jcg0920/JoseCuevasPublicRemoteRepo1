@@ -1,2 +1,2 @@
 # JoseCuevasPublicRemoteRepo1
-This is my 1st Remote Repo1
+This is my 1st Public Remote Repo1
